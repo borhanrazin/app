@@ -84,7 +84,7 @@ a{
     height: 70px;
     width: 100%;
     background-color: white;
-    position: sticky;
+    position: fixed;
     bottom: 0px;
     margin-top: 30px;
     display: flex;
