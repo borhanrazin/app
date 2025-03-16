@@ -1,0 +1,109 @@
+.line3{
+    font-size: 30px;
+    padding: 10px;
+}
+.nav-join-p{
+    font-size: 15px;
+    opacity: 0.6;
+    margin: 0px !important;
+    padding: 10px;
+}
+.nav-icon{
+    padding-right: 10px;
+}
+a{
+    padding: 10px 0px 0px 10px !important;
+}
+.navbar-main{
+    display: none;
+    position: absolute;
+    background-color: white;
+    width: 70%;
+    z-index: 99999999999999;
+}
+.nav-dropdown{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.dot3{
+    font-size: 30px;
+    position: absolute;
+    right: 10px;
+}
+a{
+    text-decoration: none !important;
+}
+.dropdown{
+    width: 120px;
+    position: absolute !important;
+    right: 10px;
+    top: 40px;
+    border-radius: 5px;
+    text-align: left;
+    background-color: rgb(40, 38, 29);
+    display: none;
+    z-index: 99999999999999999999999;
+}
+.drop-a{
+    color: beige;
+    font-size: 12px;
+    padding: 10px 10px 10px 10px !important;
+}
+.ll{
+    color: rgb(40, 38, 29) !important;
+}
+.service-main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.service{
+    height: 80px;
+    width: 22%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    position: relative;
+    border-radius: 10px;
+}
+.img{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 50px;
+    border-radius: 50%;
+}
+.service-name{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%);
+    font-size: 8px;
+    text-align: center;
+}
+.footer-nav{
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    position: sticky;
+    bottom: 0px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer-icon{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: rgb(140, 144, 148);
+}
+.footer-a{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0 !important;
+    font-size: 13px;
+    color: rgb(140, 144, 148);
+}
